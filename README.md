@@ -53,7 +53,7 @@ app/src/main/res/layout/
 
 ```bash
 git clone https://github.com/tu-usuario/practica-android-fragments.git
-
+```
 Ábrelo en Android Studio.
 
 Conéctalo a un emulador o dispositivo físico.
